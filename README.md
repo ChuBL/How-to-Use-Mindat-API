@@ -1,6 +1,6 @@
-# How-to-Use-Mindat-API
+# Mindat API examples
 
-**How-to-Use-Mindat-API** is a tutorial written in Jupyter Notebook that demonstrates the use cases with the OpenMindat Data API. It is built using [mindat_api_test](https://github.com/jolyonralph/mindat_api_test), an open-source repository licensed under the Apache License, Version 2.0.
+**How-to-Use-Mindat-API** is a tutorial written by  in Jupyter Notebook that demonstrates the use cases with the OpenMindat Data API. It is built using [mindat_api_test](https://github.com/jolyonralph/mindat_api_test), an open-source repository licensed under the Apache License, Version 2.0.
 
 ## Getting Started
 
