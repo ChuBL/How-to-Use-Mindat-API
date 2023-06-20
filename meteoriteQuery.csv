@@ -1,0 +1,516 @@
+,id,name,synid,ima_status,ima_approved
+414,11263,Lodranite meteorite,0,0,0
+85,49515,Chondrite meteorite,0,0,0
+84,49517,Chondrite-fusion crust meteorite,0,0,0
+508,49518,Ungrouped chondrite meteorite,0,0,0
+75,49519,Carbonaceous chondrite meteorite,0,0,0
+79,49520,C chondrite meteorite,0,0,0
+66,49521,C1 chondrite meteorite,0,0,0
+502,49522,Ungrouped C1 chondrite meteorite,0,0,0
+501,49523,Ungrouped C1/2 chondrite meteorite,0,0,0
+67,49524,C2 chondrite meteorite,0,0,0
+503,49525,Ungrouped C2 chondrite meteorite,0,0,0
+68,49526,C3 chondrite meteorite,0,0,0
+506,49527,Ungrouped C3 chondrite meteorite,0,0,0
+504,49528,Ungrouped C3.0 chondrite meteorite,0,0,0
+505,49529,Ungrouped C3/4 chondrite meteorite,0,0,0
+70,49530,C4 chondrite meteorite,0,0,0
+71,49531,C4-ung chondrite meteorite,0,0,0
+69,49532,C4/5 chondrite meteorite,0,0,0
+73,49533,C5 chondrite meteorite,0,0,0
+72,49534,C5/6-ung chondrite meteorite,0,0,0
+74,49535,C6 chondrite meteorite,0,0,0
+78,49536,CB chondrite meteorite,0,0,0
+76,49537,CBa chondrite meteorite,0,0,0
+77,49538,CBb chondrite meteorite,0,0,0
+83,49539,CH chondrite meteorite,0,0,0
+80,49540,CH3 chondrite meteorite,0,0,0
+88,49541,CI chondrite meteorite,0,0,0
+87,49542,CI1 chondrite meteorite,0,0,0
+98,49543,CK chondrite meteorite,0,0,0
+92,49544,CK3 chondrite meteorite,0,0,0
+28,49545,Anomalous CK3 chondrite meteorite,0,0,0
+91,49546,CK3.8 chondrite meteorite,0,0,0
+89,49547,CK3/4 chondrite meteorite,0,0,0
+94,49548,CK4 chondrite meteorite,0,0,0
+29,49549,Anomalous CK4 chondrite meteorite,0,0,0
+96,49550,CK5 chondrite meteorite,0,0,0
+97,49551,CK6 chondrite meteorite,0,0,0
+103,49552,CM chondrite meteorite,0,0,0
+101,49553,CM1 chondrite meteorite,0,0,0
+99,49554,CM1/2 chondrite meteorite,0,0,0
+32,49556,Anomalous CM chondrite meteorite,0,0,0
+102,49557,CM2 chondrite meteorite,0,0,0
+31,49558,Anomalous CM2 chondrite meteorite,0,0,0
+116,49559,CO chondrite meteorite,0,0,0
+114,49560,CO3 chondrite meteorite,0,0,0
+104,49561,CO3.0 chondrite meteorite,0,0,0
+105,49562,CO3.1 chondrite meteorite,0,0,0
+106,49563,CO3.2 chondrite meteorite,0,0,0
+107,49564,CO3.3 chondrite meteorite,0,0,0
+108,49565,CO3.4 chondrite meteorite,0,0,0
+109,49566,CO3.5 chondrite meteorite,0,0,0
+110,49567,CO3.6 chondrite meteorite,0,0,0
+111,49568,CO3.7 chondrite meteorite,0,0,0
+112,49569,CO3.8 chondrite meteorite,0,0,0
+113,49570,CO3.9 chondrite meteorite,0,0,0
+121,49571,CR chondrite meteorite,0,0,0
+117,49572,CR1 chondrite meteorite,0,0,0
+118,49573,CR2 chondrite meteorite,0,0,0
+33,49574,Anomalous CR2 chondrite meteorite,0,0,0
+119,49575,CR6 chondrite meteorite,0,0,0
+120,49576,CR7 chondrite meteorite,0,0,0
+126,49577,CV chondrite meteorite,0,0,0
+122,49578,CV2 chondrite meteorite,0,0,0
+124,49579,CV3 chondrite meteorite,0,0,0
+34,49580,Anomalous CV3 chondrite meteorite,0,0,0
+448,49581,Ordinary chondrite meteorite,0,0,0
+444,49582,O chondrite meteorite,49581,0,0
+443,49583,OC chondrite meteorite,49581,0,0
+209,49584,H chondrite meteorite,0,0,0
+187,49585,H3 chondrite meteorite,0,0,0
+220,49586,H(L)3 chondrite meteorite,0,0,0
+215,49587,H/L3.5 chondrite meteorite,0,0,0
+216,49588,H/L3.6 chondrite meteorite,0,0,0
+217,49589,H/L3.7 chondrite meteorite,0,0,0
+218,49590,H/L3.9 chondrite meteorite,0,0,0
+214,49591,H/L3-4 chondrite meteorite,0,0,0
+174,49592,H3/4 chondrite meteorite,0,0,0
+186,49593,H3-an chondrite meteorite,0,0,0
+219,49595,H(L)3-an chondrite meteorite,0,0,0
+213,49596,H(L)3.1 chondrite meteorite,0,0,0
+166,49597,H3.0 chondrite meteorite,0,0,0
+165,49598,H.3.05 chondrite meteorite,49597,0,0
+164,49599,H3.0-3.4 chondrite meteorite,0,0,0
+169,49600,H3.1 chondrite meteorite,0,0,0
+167,49601,H.3.10 chondrite meteorite,49600,0,0
+168,49602,H3.15 chondrite meteorite,49600,0,0
+172,49603,H3.2 chondrite meteorite,0,0,0
+170,49604,H3.2-3.7 chondrite meteorite,0,0,0
+193,49606,H4 chondrite meteorite,0,0,0
+196,49607,H4-melt breccia chondrite meteorite,0,0,0
+192,49608,H4-an chondrite meteorite,0,0,0
+224,49609,H/L4 chondrite meteorite,0,0,0
+222,49610,H/L4/5 chondrite meteorite,0,0,0
+188,49612,H4/5 chondrite meteorite,0,0,0
+200,49614,H5 chondrite meteorite,0,0,0
+199,49615,H5-an chondrite meteorite,0,0,0
+202,49616,H5-melt breccia chondrite meteorite,0,0,0
+225,49617,H/L5 chondrite meteorite,0,0,0
+197,49618,H5-6 chondrite meteorite,0,0,0
+204,49619,H6 chondrite meteorite,0,0,0
+203,49620,H6-an chondrite meteorite,0,0,0
+205,49621,H6-melt breccia chondrite meteorite,0,0,0
+226,49622,H(L)6 chondrite meteorite,0,0,0
+228,49623,H/L6-melt rock chondrite meteorite,0,0,0
+206,49625,H7 chondrite meteorite,0,0,0
+207,49626,H-an chondrite meteorite,0,0,0
+212,49627,H-imp melt chondrite meteorite,0,0,0
+230,49628,H-melt breccia chondrite meteorite,0,0,0
+231,49629,H-melt rock chondrite meteorite,0,0,0
+232,49630,H-metal chondrite meteorite,0,0,0
+210,49631,H? chondrite meteorite,0,0,0
+235,49632,H~4 chondrite meteorite,0,0,0
+234,49633,H~4/5 chondrite meteorite,0,0,0
+236,49634,H~5 chondrite meteorite,0,0,0
+237,49635,H~6 chondrite meteorite,0,0,0
+201,49636,H(5?) chondrite meteorite,0,0,0
+198,49637,H5-7 chondrite meteorite,0,0,0
+229,49638,H/L~4 chondrite meteorite,0,0,0
+194,49639,H4(?) chondrite meteorite,0,0,0
+195,49640,H(?)4 chondrite meteorite,0,0,0
+177,49641,H3-5 chondrite meteorite,0,0,0
+179,49642,H3-6 chondrite meteorite,0,0,0
+171,49643,H3.2-6 chondrite meteorite,0,0,0
+183,49644,H3.9-5 chondrite meteorite,0,0,0
+184,49645,H3.9-6 chondrite meteorite,0,0,0
+190,49646,H4-6 chondrite meteorite,0,0,0
+191,49647,H4/6 chondrite meteorite,0,0,0
+323,49648,L chondrite meteorite,0,0,0
+304,49649,L3 chondrite meteorite,0,0,0
+267,49650,L3.0-3.9 chondrite meteorite,0,0,0
+306,49651,L3-melt breccia chondrite meteorite,0,0,0
+269,49652,L3.0 chondrite meteorite,0,0,0
+265,49653,L3.00 chondrite meteorite,0,0,0
+268,49654,L3.05 chondrite meteorite,0,0,0
+266,49655,L3.0-3.7 chondrite meteorite,0,0,0
+272,49656,L3.1 chondrite meteorite,0,0,0
+270,49657,L3.10 chondrite meteorite,0,0,0
+271,49658,L3.15 chondrite meteorite,0,0,0
+275,49659,L3.2 chondrite meteorite,0,0,0
+273,49660,L3.2-3.5 chondrite meteorite,0,0,0
+274,49661,L3.2-3.6 chondrite meteorite,0,0,0
+279,49662,L3.3 chondrite meteorite,0,0,0
+276,49663,L3.3-3.5 chondrite meteorite,0,0,0
+277,49664,L3.3-3.6 chondrite meteorite,0,0,0
+278,49665,L3.3-3.7 chondrite meteorite,0,0,0
+280,49666,L3-4 chondrite meteorite,0,0,0
+287,49667,L3.5 chondrite meteorite,0,0,0
+283,49668,L3.5-3.7 chondrite meteorite,0,0,0
+284,49669,L3.5-3.8 chondrite meteorite,0,0,0
+285,49670,L3.5-3.9 chondrite meteorite,0,0,0
+290,49671,L3.6 chondrite meteorite,0,0,0
+289,49672,L3.6-4 chondrite meteorite,0,0,0
+296,49673,L3.7 chondrite meteorite,0,0,0
+292,49674,L3.7/3.8 chondrite meteorite,0,0,0
+293,49675,L3.7-3.9 chondrite meteorite,0,0,0
+294,49676,L3.7-4 chondrite meteorite,0,0,0
+301,49677,L3.8 chondrite meteorite,0,0,0
+300,49678,L3.8-an chondrite meteorite,0,0,0
+303,49679,L3.9 chondrite meteorite,0,0,0
+302,49680,L3.9/4 chondrite meteorite,0,0,0
+324,49682,L(H)3 chondrite meteorite,0,0,0
+386,49683,LL(L)3 chondrite meteorite,0,0,0
+374,49684,L(LL)3.0 chondrite meteorite,0,0,0
+373,49685,L(LL)3.05 chondrite meteorite,0,0,0
+381,49686,L(LL)3.5-3.7 chondrite meteorite,0,0,0
+376,49688,LL(L)3.1 chondrite meteorite,0,0,0
+378,49689,LL(L)3.2 chondrite meteorite,0,0,0
+380,49690,L/LL3.4 chondrite meteorite,0,0,0
+375,49691,L/LL3.10 chondrite meteorite,0,0,0
+382,49692,L/LL3.5 chondrite meteorite,0,0,0
+384,49693,L/LL3.6/3.7 chondrite meteorite,0,0,0
+311,49695,L4 chondrite meteorite,0,0,0
+310,49696,L4-an chondrite meteorite,0,0,0
+312,49697,L4-melt breccia chondrite meteorite,0,0,0
+313,49698,L4-melt rock chondrite meteorite,0,0,0
+390,49699,L/LL4 chondrite meteorite,0,0,0
+307,49700,L4/5 chondrite meteorite,0,0,0
+316,49702,L5 chondrite meteorite,0,0,0
+393,49703,L/LL5 chondrite meteorite,0,0,0
+391,49705,L/LL5/6 chondrite meteorite,0,0,0
+314,49708,L5/6 chondrite meteorite,0,0,0
+317,49709,L5-melt breccia chondrite meteorite,0,0,0
+319,49710,L6 chondrite meteorite,0,0,0
+320,49711,L6-melt breccia chondrite meteorite,0,0,0
+321,49712,L6-melt rock chondrite meteorite,0,0,0
+396,49713,L/LL6 chondrite meteorite,0,0,0
+395,49715,L/LL6-an chondrite meteorite,0,0,0
+318,49716,L6/7 chondrite meteorite,0,0,0
+322,49717,L7 chondrite meteorite,0,0,0
+326,49718,L-imp melt chondrite meteorite,0,0,0
+410,49719,L-melt breccia chondrite meteorite,0,0,0
+411,49720,L-melt rock chondrite meteorite,0,0,0
+412,49721,L-metal chondrite meteorite,0,0,0
+398,49722,L/LL-melt rock chondrite meteorite,0,0,0
+385,49723,L/LL3-6 chondrite meteorite,0,0,0
+383,49724,L/LL3-5 chondrite meteorite,0,0,0
+387,49725,L/LL(?)3 chondrite meteorite,0,0,0
+305,49726,L(?)3 chondrite meteorite,0,0,0
+399,49727,L(LL)~4 chondrite meteorite,0,0,0
+400,49728,L/LL~4 chondrite meteorite,0,0,0
+401,49729,L/LL~5 chondrite meteorite,0,0,0
+402,49730,L/LL~6 chondrite meteorite,0,0,0
+288,49731,L3-5 chondrite meteorite,0,0,0
+291,49732,L3-6 chondrite meteorite,0,0,0
+297,49733,L3-7 chondrite meteorite,0,0,0
+286,49734,L3.5-5 chondrite meteorite,0,0,0
+295,49735,L3.7-6 chondrite meteorite,0,0,0
+298,49736,L3.8-5 chondrite meteorite,0,0,0
+299,49737,L3.8-6 chondrite meteorite,0,0,0
+309,49738,L4-6 chondrite meteorite,0,0,0
+315,49739,L5-7 chondrite meteorite,0,0,0
+416,49740,L~3 chondrite meteorite,0,0,0
+418,49741,L~4 chondrite meteorite,0,0,0
+417,49742,L~4-6 chondrite meteorite,0,0,0
+419,49743,L~5 chondrite meteorite,0,0,0
+420,49744,L~6 chondrite meteorite,0,0,0
+370,49745,LL chondrite meteorite,0,0,0
+350,49746,LL3 chondrite meteorite,0,0,0
+335,49750,LL3/4 chondrite meteorite,0,0,0
+329,49751,LL3.0 chondrite meteorite,0,0,0
+327,49752,LL3.00 chondrite meteorite,0,0,0
+328,49753,LL3.05 chondrite meteorite,0,0,0
+332,49754,LL3.1 chondrite meteorite,0,0,0
+330,49755,LL3.10 chondrite meteorite,0,0,0
+331,49756,LL3.15 chondrite meteorite,0,0,0
+333,49757,LL3.2 chondrite meteorite,0,0,0
+334,49758,LL3.3 chondrite meteorite,0,0,0
+338,49760,LL3.5 chondrite meteorite,0,0,0
+341,49761,LL3.6 chondrite meteorite,0,0,0
+340,49762,LL3.6/3.7 chondrite meteorite,0,0,0
+344,49763,LL3.7 chondrite meteorite,0,0,0
+347,49764,LL3.8 chondrite meteorite,0,0,0
+349,49765,LL3.9 chondrite meteorite,0,0,0
+348,49767,LL3.9/4 chondrite meteorite,0,0,0
+356,49768,LL4 chondrite meteorite,0,0,0
+351,49769,LL4/5 chondrite meteorite,0,0,0
+357,49770,LL4-melt breccia chondrite meteorite,0,0,0
+360,49772,LL5 chondrite meteorite,0,0,0
+358,49773,LL5/6 chondrite meteorite,0,0,0
+361,49774,LL5-melt breccia chondrite meteorite,0,0,0
+364,49776,LL6 chondrite meteorite,0,0,0
+363,49777,LL6-an chondrite meteorite,0,0,0
+366,49778,LL6-melt breccia chondrite meteorite,0,0,0
+362,49779,LL6/7 chondrite meteorite,0,0,0
+372,49780,LL-imp melt chondrite meteorite,0,0,0
+403,49781,LL-melt breccia chondrite meteorite,0,0,0
+404,49782,LL-melt rock chondrite meteorite,0,0,0
+339,49783,LL3-5 chondrite meteorite,0,0,0
+342,49784,LL3-6 chondrite meteorite,0,0,0
+343,49785,LL3.7-6 chondrite meteorite,0,0,0
+345,49786,LL3.8-4 chondrite meteorite,0,0,0
+346,49787,LL3.8-6 chondrite meteorite,0,0,0
+353,49788,LL4-6 chondrite meteorite,0,0,0
+355,49789,LL4-7 chondrite meteorite,0,0,0
+354,49790,LL4/6 chondrite meteorite,0,0,0
+365,49791,LL6(?) chondrite meteorite,0,0,0
+367,49792,LL7(?) chondrite meteorite,0,0,0
+369,49793,LL<3.5 chondrite meteorite,0,0,0
+405,49794,LL~3 chondrite meteorite,0,0,0
+407,49795,LL~4 chondrite meteorite,0,0,0
+406,49796,LL~4/5 chondrite meteorite,0,0,0
+408,49797,LL~5 chondrite meteorite,0,0,0
+409,49798,LL~6 chondrite meteorite,0,0,0
+371,49799,LL? chondrite meteorite,0,0,0
+154,49800,Enstatite chondrite meteorite,0,0,0
+134,49801,E chondrite meteorite,49800,0,0
+38,49802,Anomalous E chondrite meteorite,0,0,0
+153,49803,E-melt breccia chondrite meteorite,0,0,0
+130,49804,E3 chondrite meteorite,0,0,0
+36,49805,Anomalous E3 chondrite meteorite,0,0,0
+131,49806,E4 chondrite meteorite,0,0,0
+132,49807,E5 chondrite meteorite,0,0,0
+37,49808,Anomalous E5 chondrite meteorite,0,0,0
+133,49809,E6 chondrite meteorite,0,0,0
+142,49810,EH chondrite meteorite,0,0,0
+135,49811,EH3 chondrite meteorite,0,0,0
+39,49812,Anomalous EH3/4 chondrite meteorite,0,0,0
+137,49813,EH4 chondrite meteorite,0,0,0
+138,49814,EH5 chondrite meteorite,0,0,0
+139,49815,EH6 chondrite meteorite,0,0,0
+140,49816,EH6-melt breccia chondrite meteorite,0,0,0
+256,49817,Impact melted EH chondrite meteorite,0,0,0
+143,49818,EH-melt rock chondrite meteorite,0,0,0
+141,49819,EH7 chondrite meteorite,0,0,0
+151,49820,EL chondrite meteorite,0,0,0
+152,49821,EL-melt rock chondrite meteorite,0,0,0
+144,49822,EL3 chondrite meteorite,0,0,0
+145,49823,EL4 chondrite meteorite,0,0,0
+146,49824,EL5 chondrite meteorite,0,0,0
+147,49825,EL5-melt breccia chondrite meteorite,0,0,0
+149,49826,EL6 chondrite meteorite,0,0,0
+148,49827,EL6/7 chondrite meteorite,0,0,0
+150,49828,EL7 chondrite meteorite,0,0,0
+264,49829,K chondrite meteorite,0,0,0
+263,49830,Kakangari chondrite meteorite,49829,0,0
+261,49831,K3 chondrite meteorite,0,0,0
+262,49832,K4 chondrite meteorite,0,0,0
+488,49833,R chondrite meteorite,0,0,0
+494,49834,Rumuruti chondrite meteorite,49833,0,0
+481,49835,R3 chondrite meteorite,0,0,0
+485,49836,R4 chondrite meteorite,0,0,0
+486,49837,R5 chondrite meteorite,0,0,0
+487,49838,R6 chondrite meteorite,0,0,0
+86,49839,Chondrite meteorite by petrological type,0,0,0
+453,49840,Petrologic Type 1 chondrite meteorite,0,0,0
+454,49841,Petrologic Type 2 chondrite meteorite,0,0,0
+455,49842,Petrologic Type 3 chondrite meteorite,0,0,0
+456,49843,Petrologic Type 4 chondrite meteorite,0,0,0
+457,49844,Petrologic Type 5 chondrite meteorite,0,0,0
+458,49845,Petrologic Type 6 chondrite meteorite,0,0,0
+459,49846,Petrologic Type 7 chondrite meteorite,0,0,0
+465,49847,Primitive achondrite meteorite,0,0,0
+25,49848,Acapulcoite meteorite,0,0,0
+24,49849,Acapulcoite-lodranite meteorite,0,0,0
+65,49850,Brachinite meteorite,0,0,0
+238,49851,IAB complex iron meteorite,0,0,0
+239,49852,IAB-MG iron meteorite,0,0,0
+243,49853,IAB-sLL iron meteorite,0,0,0
+244,49854,IAB-sLM iron meteorite,0,0,0
+46,49856,Anomalous IAB-sLM iron meteorite,0,0,0
+242,49857,IAB-sLH iron meteorite,0,0,0
+241,49859,IAB-sHL iron meteorite,0,0,0
+45,49860,Anomalous IAB-sHL iron meteorite,0,0,0
+240,49861,IAB-sHH iron meteorite,0,0,0
+510,49862,Ungrouped IAB iron meteorite,0,0,0
+44,49863,Anomalous IAB iron meteorite,0,0,0
+253,49864,IIICD iron meteorite,0,0,0
+413,49865,Lodranite-an meteorite,0,0,0
+513,49866,Ureilite meteorite,0,0,0
+56,49867,Anomalous ureilite meteorite,0,0,0
+462,49868,Polymict ureilite meteorite,0,0,0
+514,49869,Winonaite meteorite,0,0,0
+26,49872,Angrite meteorite,0,0,0
+59,49873,Aubrite meteorite,0,0,0
+509,49876,Ungrouped enstatite-rich achondrite meteorite,0,0,0
+211,49877,HED achondrite meteorite,0,0,0
+233,49878,Howardite meteorite,0,0,0
+43,49879,Anomalous howardite meteorite,0,0,0
+158,49880,Eucrite meteorite,0,0,0
+41,49881,Anomalous eucrite meteorite,0,0,0
+155,49882,Eucrite breccia meteorite,0,0,0
+156,49883,Eucrite cumulate meteorite,0,0,0
+157,49884,Eucrite melt breccia meteorite,0,0,0
+438,49885,Mg-rich eucrite meteorite,0,0,0
+159,49886,Eucrite monomict breccia meteorite,0,0,0
+160,49887,Eucrite polymict breccia meteorite,0,0,0
+498,49888,Unbrecciated eucrite meteorite,0,0,0
+128,49889,Diogenite meteorite,0,0,0
+461,49890,Polymict breccia diogenite meteorite,0,0,0
+35,49891,Anomalous diogenite meteorite,0,0,0
+450,49892,Orthopyroxenitic diogenite meteorite,0,0,0
+446,49893,Olivine orthopyroxenitic diogenite meteorite,0,0,0
+208,49894,Harzburgitic diogenite meteorite,0,0,0
+440,49895,Noritic diogenite meteorite,0,0,0
+129,49896,Dunitic diogenite meteorite,0,0,0
+451,49898,Pallasite meteorite,0,0,0
+460,49899,PMG pallasite meteorite,0,0,0
+55,49901,Anomalous PMG pallasite meteorite,0,0,0
+452,49902,PES pallasite meteorite,0,0,0
+467,49904,Pyroxene pallasite meteorite,0,0,0
+437,49905,Mesosiderite meteorite,0,0,0
+429,49906,Mesosiderite-A meteorite,0,0,0
+424,49907,Mesosiderite-A1 meteorite,0,0,0
+425,49908,Mesosiderite-A2 meteorite,0,0,0
+427,49909,Mesosiderite-A3 meteorite,0,0,0
+428,49910,Mesosiderite-A4 meteorite,0,0,0
+54,49911,Anomalous mesosiderite meteorite,0,0,0
+434,49912,Mesosiderite-B meteorite,0,0,0
+430,49913,Mesosiderite-B1 meteorite,0,0,0
+431,49914,Mesosiderite-B2 meteorite,0,0,0
+432,49915,Mesosiderite-B3 meteorite,0,0,0
+433,49916,Mesosiderite-B4 meteorite,0,0,0
+436,49917,Mesosiderite-C meteorite,0,0,0
+435,49918,Mesosiderite-C2 meteorite,0,0,0
+257,49919,Iron group meteorite,0,0,0
+245,49920,IC iron meteorite,0,0,0
+47,49921,Anomalous IC iron meteorite,0,0,0
+246,49922,IIAB iron meteorite,0,0,0
+48,49923,Anomalous IIAB iron meteorite,0,0,0
+247,49924,IIC iron meteorite,0,0,0
+248,49925,IID iron meteorite,0,0,0
+49,49926,Anomalous IID iron meteorite,0,0,0
+249,49927,IIE iron meteorite,0,0,0
+50,49928,Anomalous IIE iron meteorite,0,0,0
+250,49929,IIF iron meteorite,0,0,0
+252,49930,IIIAB iron meteorite,0,0,0
+51,49931,Anomalous IIIAB iron meteorite,0,0,0
+254,49932,IIIE iron meteorite,0,0,0
+52,49933,Anomalous IIIE iron meteorite,0,0,0
+255,49934,IIIF iron meteorite,0,0,0
+259,49935,IVA iron meteorite,0,0,0
+53,49936,Anomalous IVA iron meteorite,0,0,0
+260,49937,IVB iron meteorite,0,0,0
+422,49938,Martian achrondite meteorite,0,0,0
+495,49939,Shergottite meteorite,0,0,0
+64,49941,Basaltic shergottite meteorite,0,0,0
+447,49942,Olivine-phyric shergottite meteorite,0,0,0
+325,49944,Lherzolitic shergottite meteorite,0,0,0
+439,49945,Nakhlite meteorite,0,0,0
+81,49947,Chassignite meteorite,0,0,0
+57,49950,Anorthositic Lunar meteorite,0,0,0
+62,49951,Basaltic breccia Lunar meteorite,0,0,0
+60,49952,Basaltic and anorthositic Lunar meteorite,0,0,0
+61,49953,Basaltic and gabbroic breccia Lunar meteorite,0,0,0
+161,49954,Feldspathic breccia Lunar meteorite,0,0,0
+63,49955,Basaltic Lunar meteorite,0,0,0
+162,49956,Gabbroic Lunar meteorite,0,0,0
+441,49957,Noritic Lunar meteorite,0,0,0
+445,49958,Olivine-bearing gabbroic Lunar meteorite,0,0,0
+497,49959,Trocolitic anorthositic Lunar meteorite,0,0,0
+258,49960,Iron meteorite,0,0,0
+421,49961,Magmatic iron meteorite,0,0,0
+466,49962,Primitive iron meteorite,0,0,0
+496,49963,Stony-iron meteorite,0,0,0
+127,50269,Differentiated achondrite meteorite,0,0,0
+58,50270,Asteroidal achondrite meteorite,0,0,0
+415,50275,Lunar achondrite meteorite,0,0,0
+100,50444,CM1-2 chondrite meteorite,0,0,0
+221,50445,H/L3 chondrite meteorite,0,0,0
+175,50446,H3-4 chondrite meteorite,0,0,0
+223,50447,H/L4-5 chondrite meteorite,0,0,0
+189,50448,H4-5 chondrite meteorite,0,0,0
+227,50449,H/L6 chondrite meteorite,0,0,0
+281,50450,L3.4 chondrite meteorite,0,0,0
+282,50451,L3/4 chondrite meteorite,0,0,0
+388,50452,L(LL)3 chondrite meteorite,0,0,0
+389,50453,L/LL3 chondrite meteorite,0,0,0
+377,50454,L/LL3.1 chondrite meteorite,0,0,0
+379,50455,L/LL3.2 chondrite meteorite,0,0,0
+308,50456,L4-5 chondrite meteorite,0,0,0
+394,50457,L(LL)5 chondrite meteorite,0,0,0
+392,50458,L/LL5-6 chondrite meteorite,0,0,0
+397,50459,L(LL)6 chondrite meteorite,0,0,0
+336,50460,LL3-4 chondrite meteorite,0,0,0
+337,50461,LL3.4 chondrite meteorite,0,0,0
+352,50462,LL4-5 chondrite meteorite,0,0,0
+359,50463,LL5-6 chondrite meteorite,0,0,0
+123,51872,CV3 carbonaceous chondrite meteorite,49579,0,0
+125,51873,CV carbonaceous chondrite meteorite,49577,0,0
+449,52197,Orthopyroxene-rich Martian meteorite,0,0,0
+423,52198,Martian (basaltic breccia) meteorite,0,0,0
+178,52199,H3.5 chondrite meteorite,0,0,0
+176,52200,H3.4 chondrite meteorite,0,0,0
+500,52201,Ungrouped Achondrite meteorite,0,0,0
+507,52202,Ungrouped C chondrite meteorite,0,0,0
+90,52203,CK3-6 chondrite meteorite,0,0,0
+82,52204,CH/CBb chondrite meteorite,0,0,0
+93,52205,CK4/5 chondrite meteorite,0,0,0
+30,52206,Anomalous CK5 chondrite meteorite,0,0,0
+95,52207,CK5/6 chondrite meteorite,0,0,0
+136,52208,EH4/5 chondrite meteorite,0,0,0
+468,52209,R3-4 chondrite meteorite,0,0,0
+473,52210,R3-5 chondrite meteorite,0,0,0
+474,52211,R3-6 chondrite meteorite,0,0,0
+469,52212,R3.4 chondrite meteorite,0,0,0
+471,52213,R3.5-4 chondrite meteorite,0,0,0
+472,52214,R3.5-6 chondrite meteorite,0,0,0
+475,52215,R3.6 chondrite meteorite,0,0,0
+476,52216,R3.7 chondrite meteorite,0,0,0
+479,52217,R3.8 chondrite meteorite,0,0,0
+477,52218,R3.8-5 chondrite meteorite,0,0,0
+478,52219,R3.8-6 chondrite meteorite,0,0,0
+480,52220,R3.9 chondrite meteorite,0,0,0
+470,52221,R3/4 chondrite meteorite,0,0,0
+482,52222,R4-5 chondrite meteorite,0,0,0
+484,52223,R4-6 chondrite meteorite,0,0,0
+483,52224,R4/5 chondrite meteorite,0,0,0
+426,52225,Mesosiderite-A3/4 meteorite,0,0,0
+182,52226,H3.8 chondrite meteorite,0,0,0
+185,52227,H3.9 chondrite meteorite,0,0,0
+180,52228,H3.6 chondrite meteorite,0,0,0
+181,52229,H3.7 chondrite meteorite,0,0,0
+511,52231,Ungrouped iron meteorite,0,0,0
+491,52237,Relict meteorite,0,0,0
+489,52238,Relict H meteorite,0,0,0
+490,52239,Relict iron meteorite,0,0,0
+492,52240,Relict OC meteorite,0,0,0
+493,52241,Relict ureilite meteorite,0,0,0
+0,52338,Ureilite-pmict meteorite,49868,0,0
+40,52360,Anomalous EH7 chondrite meteorite,0,0,0
+1,52363,C-ung chondrite meteorite,52202,0,0
+2,52364,C1-ung chondrite meteorite,49522,0,0
+3,52365,C1/2-ung chondrite meteorite,49523,0,0
+4,52366,C2-ung chondrite meteorite,49525,0,0
+5,52367,C3-ung chondrite meteorite,49527,0,0
+173,52368,H3.3 chondrite meteorite,0,0,0
+499,52369,Unclassified stony meteorite,0,0,0
+251,52370,IIG iron meteorite,0,0,0
+512,52371,Ungrouped pallasite meteorite,0,0,0
+27,52372,Anomalous aubrite meteorite,0,0,0
+464,52373,Possible iron meteorite,0,0,0
+442,52374,OC3 chondrite meteorite,0,0,0
+6,52375,CK4-an chondrite meteorite,49549,0,0
+7,52376,CK3-an chondrite meteorite,49545,0,0
+8,52377,CM-an chondrite meteorite,49556,0,0
+9,52378,C3.0-ung chondrite meteorite,49528,0,0
+10,52379,C3/4-ung chondrite meteorite,49529,0,0
+11,52380,IAB-sHL-an iron meteorite,49860,0,0
+12,52381,IC-an iron meteorite,49921,0,0
+13,52382,IIAB-an iron meteorite,49923,0,0
+14,52383,IIE-an iron meteorite,49928,0,0
+15,52384,IIIAB-an iron meteorite,49931,0,0
+16,52385,IIIE-an iron meteorite,49933,0,0
+17,52386,IVA-an iron meteorite,49936,0,0
+18,52387,CK5-an chondrite meteorite,52206,0,0
+19,52388,CM2-an chondrite meteorite,49558,0,0
+20,52389,CR2-an chondrite meteorite,49574,0,0
+21,52390,E3-an chondrite meteorite,49805,0,0
+22,52391,E5-an chondrite meteorite,49808,0,0
+23,52392,IAB-ung iron meteorite,49862,0,0
+463,52393,Possible IAB complex iron meteorite,0,0,0
+368,52394,LL7 chondrite meteorite,0,0,0
+42,52395,Anomalous H3.8 chondrite meteorite,0,0,0
+115,52396,CO3-melt breccia chondrite meteorite,0,0,0
+163,52895,glass meteorite,10860,0,0
