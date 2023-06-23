@@ -13,6 +13,7 @@ There are two ways to access this tutorial.
 | [**GitHub Preview**](https://github.com/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API.ipynb)    |       o        |   x    |  x  |
 | [**Google Colab**](https://colab.research.google.com/github/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API.ipynb) |       o        |   o    |  o  |
 
+[OpenMindat API Document](https://api.mindat.org/schema/redoc/)
 
 ## License
 
