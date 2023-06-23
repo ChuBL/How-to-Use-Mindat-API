@@ -2,6 +2,8 @@
 
 **How-to-Use-Mindat-API** is a tutorial written in Jupyter Notebook that demonstrates the use cases with the OpenMindat Data API. It is built using [mindat_api_test](https://github.com/jolyonralph/mindat_api_test), an open-source repository licensed under the Apache License, Version 2.0.
 
+[OpenMindat API Document](https://api.mindat.org/schema/redoc/)
+
 ## Getting Started
 
 > If you do not have a Mindat API key, please refer to [How to Get My Mindat API Key or Token?](https://www.mindat.org/a/how_to_get_my_mindat_api_key)
@@ -13,7 +15,6 @@ There are two ways to access this tutorial.
 | [**GitHub Preview**](https://github.com/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API.ipynb)    |       o        |   x    |  x  |
 | [**Google Colab**](https://colab.research.google.com/github/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API.ipynb) |       o        |   o    |  o  |
 
-[OpenMindat API Document](https://api.mindat.org/schema/redoc/)
 
 ## License
 
