@@ -12,7 +12,7 @@ There are two ways to access this tutorial.
 
 | Approach          | View | Edit | Run |
 |-------------------|----------------|--------|-----|
-| [**GitHub Preview**](https://github.com/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API.ipynb)    |       o        |   x    |  x  |
+| [**Notebook Preview**](https://nbviewer.org/github/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API.ipynb)    |       o        |   x    |  x  |
 | [**Google Colab**](https://colab.research.google.com/github/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API.ipynb) |       o        |   o    |  o  |
 
 
