@@ -26,9 +26,10 @@ How-to-Use-Mindat-API is licensed under the [Apache License, Version 2.0](LICENS
 This project uses code from [mindat_api_test](https://github.com/jolyonralph/mindat_api_test), which is also licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0). A copy of the Apache License can be found in the [LICENSE](LICENSE) file. The original copyright notice and license header (if any) have been retained in the files where the Apache-licensed code is used or modified.
 
 ## Acknowledgments
-
-<img src="./Fig/NSF_Official_logo_High_Res_1200ppi.png"  width="10%">
-<img src="./Fig/EarthCube-Newblue-perfect square.png"  width="10%">
+<p float="left">
+	<img src="./Fig/NSF_Official_logo_High_Res_1200ppi.png"  width="10%">
+	<img src="./Fig/EarthCube-Newblue-perfect square.png"  width="10%">
+</p>
 
 - Thanks to the authors and maintainers of [mindat_api_test](https://github.com/jolyonralph/mindat_api_test) for their valuable work and for making the code available under the Apache License, Version 2.0.
 
