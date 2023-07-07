@@ -33,5 +33,7 @@ This project uses code from [mindat_api_test](https://github.com/jolyonralph/min
 	<img src="./Fig/EarthCube-Newblue-perfect square.png"  width="10%">
 </p>
 
+- This work is supported by NSF, Award #2126315.
+
 - Thanks to the authors and maintainers of [mindat_api_test](https://github.com/jolyonralph/mindat_api_test) for their valuable work and for making the code available under the Apache License, Version 2.0.
 
