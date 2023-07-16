@@ -32,7 +32,7 @@ This project uses code from [mindat_api_test](https://github.com/jolyonralph/min
 ## Acknowledgments
 <p float="left">
 	<img src="./Fig/NSF_Official_logo_High_Res_1200ppi.png"  width="10%">
-	<img src="./Fig/EarthCube-Newblue-perfect square.png"  width="10%">
+	<img src="./Fig/EarthCube-Newblue-perfect_square.png"  width="10%">
 </p>
 
 - This work is supported by NSF, Award #2126315.
