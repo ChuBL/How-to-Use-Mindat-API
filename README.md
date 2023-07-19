@@ -6,7 +6,7 @@
 
 > If you do not have a Mindat API key, please refer to [How to Get My Mindat API Key or Token?](https://www.mindat.org/a/how_to_get_my_mindat_api_key)
 
-There are two ways to access this tutorial.
+There are different ways to access this tutorial.
 
 | Approach          | View | Edit | Run | ESIP |
 |-------------------|----------------|--------|-----|-----|
