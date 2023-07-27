@@ -8,10 +8,10 @@
 
 There are different ways to access this tutorial.
 
-| Approach          | View | Edit | Run | ESIP |
-|-------------------|----------------|--------|-----|-----|
-| [**Google Colab**](https://colab.research.google.com/github/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API.ipynb) |       o        |   o    |  o  |  x  |
-| [**Notebook Preview**](https://github.com/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API.ipynb)    |       o        |   x    |  x  |  x  |
+| Approach          | View | Edit | Run | 
+|-------------------|----------------|--------|-----|
+| [**Google Colab**](https://colab.research.google.com/github/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API.ipynb) |       o        |   o    |  o  |
+| [**Notebook Preview**](https://github.com/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API.ipynb)    |       o        |   x    |  x  |
 
 
 ## Related Links
