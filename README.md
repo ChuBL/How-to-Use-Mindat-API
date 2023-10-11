@@ -8,10 +8,10 @@
 
 There are different ways to access this tutorial.
 
-| Approach          | View | Edit | Run | 
-|-------------------|----------------|--------|-----|
-| [**Google Colab**](https://colab.research.google.com/github/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API.ipynb) |       o        |   o    |  o  |
-| [**Notebook Preview**](https://github.com/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API.ipynb)    |       o        |   x    |  x  |
+| Approach          | View | Edit | Run | GSA |
+|-------------------|----------------|--------|-----|-----|
+| [**Google Colab**](https://colab.research.google.com/github/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API.ipynb) |       o        |   o    |  o  | - |
+| [**Notebook Preview**](https://github.com/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API.ipynb)    |       o        |   x    |  x  | - |
 
 
 ## Related Links
@@ -21,6 +21,10 @@ There are different ways to access this tutorial.
 - [OpenMindat API Document](https://api.mindat.org/schema/redoc/)
 
 - [OpenMindat API Online Test](https://api.mindat.org/) (Registration Required)
+
+- [Geomaterial Fields Definition](https://github.com/smrgeoinfo/How-to-Use-Mindat-API/blob/main/geomaterialfields.csv)
+
+- [Data Preprocessing Use Case Using OpenMindat API](https://github.com/ChuBL/3DHeatmapDataPreprosses)
 
 ## License
 
