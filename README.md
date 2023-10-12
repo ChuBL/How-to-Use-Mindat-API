@@ -21,11 +21,11 @@ There are different ways to access this tutorial.
 
 - [OpenMindat API Document](https://api.mindat.org/schema/redoc/)
 
-- [OpenMindat API Online Test](https://api.mindat.org/) (Registration Required)
+- [OpenMindat API Online Test](https://api.mindat.org/) (Mindat account required)
 
 - [Geomaterial Fields Definition](https://github.com/smrgeoinfo/How-to-Use-Mindat-API/blob/main/geomaterialfields.csv)
 
-- [Data Preprocessing Use Case Using OpenMindat API](https://github.com/ChuBL/3DHeatmapDataPreprosses)
+- [Use Case of Data Preprocessing Using OpenMindat API](https://github.com/ChuBL/3DHeatmapDataPreprosses)
 
 ## License
 
