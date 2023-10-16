@@ -43,3 +43,5 @@ This project uses code from [mindat_api_test](https://github.com/jolyonralph/min
 
 - Thanks to the authors and maintainers of [mindat_api_test](https://github.com/jolyonralph/mindat_api_test) for their valuable work and for making the code available under the Apache License, Version 2.0.
 
+## Contact Information
+For questions and/or suggestions about this tutorial or the OpenMindat API project, please contact the repository manager jiyinz@uidaho.edu.
