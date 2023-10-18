@@ -27,6 +27,8 @@ There are different ways to access this tutorial.
 
 - [Use Case of Data Preprocessing Using OpenMindat API](https://github.com/ChuBL/3DHeatmapDataPreprosses)
 
+- [R package for OpenMindat](https://github.com/quexiang/OpenMindat)
+
 ## License
 
 How-to-Use-Mindat-API is licensed under the [Apache License, Version 2.0](LICENSE).
