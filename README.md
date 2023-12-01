@@ -10,7 +10,6 @@ There are different ways to access this tutorial.
 
 | Approach          | View | Edit | Run | GSA |
 |-------------------|----------------|--------|-----|-----|
-| [**For GSA**](https://colab.research.google.com/github/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API_GSA_Pittsburgh23.ipynb) |       o        |   o    |  o  | o |
 | [**Google Colab**](https://colab.research.google.com/github/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API.ipynb) |       o        |   o    |  o  | - |
 | [**Notebook Preview**](https://github.com/ChuBL/How-to-Use-Mindat-API/blob/main/How_to_Use_Mindat_API.ipynb)    |       o        |   x    |  x  | - |
 
