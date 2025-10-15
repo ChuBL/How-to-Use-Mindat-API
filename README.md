@@ -18,7 +18,7 @@ There are different ways to access this tutorial.
 
 - [How to Get My Mindat API Key or Token?](https://www.mindat.org/a/how_to_get_my_mindat_api_key)
 
-- [OpenMindat API Document](https://api.mindat.org/schema/redoc/)
+- [OpenMindat API Document](https://api.mindat.org/v1/schema/redoc/)
 
 - [OpenMindat API Online Test](https://api.mindat.org/) (Mindat account required)
 
